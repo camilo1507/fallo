@@ -1,0 +1,622 @@
+ .u-section-1 {
+  background-image: url("images/Inicio.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 727px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 599px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 459px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 344px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 217px;
+  }
+} .u-section-2 {
+  background-image: url("images/ALMA.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 823px;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: "Archivo Narrow";
+  font-size: 1.25rem;
+  font-weight: 700;
+  font-style: italic;
+  background-image: none;
+  margin: 112px auto 0 37px;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 1px 821px 0 37px;
+}
+
+.u-section-2 .u-text-3 {
+  font-size: 1.25rem;
+  font-family: "Archivo Narrow";
+  font-weight: 700;
+  text-align: start;
+  font-style: italic;
+  margin: 283px 131px 0 auto;
+}
+
+.u-section-2 .u-text-4 {
+  text-align: start;
+  margin: 0 37px 60px 811px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 679px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 621px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-right: 0;
+    margin-left: 648px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 520px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 401px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-left: 428px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 390px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 221px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-left: 248px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 246px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 21px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 82px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-left: 48px;
+  }
+} .u-section-3 {
+  background-image: url("images/REALIDAD.png");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 805px;
+}
+
+.u-section-3 .u-text-1 {
+  font-family: "Archivo Narrow";
+  font-size: 1.25rem;
+  font-weight: 700;
+  font-style: italic;
+  background-image: none;
+  text-align: start;
+  margin: 91px auto 0 37px;
+}
+
+.u-section-3 .u-text-2 {
+  text-align: start;
+  margin: 1px 821px 0 37px;
+}
+
+.u-section-3 .u-text-3 {
+  font-size: 1.25rem;
+  font-family: "Archivo Narrow";
+  font-weight: 700;
+  text-align: start;
+  font-style: italic;
+  margin: 287px 149px 0 auto;
+}
+
+.u-section-3 .u-text-4 {
+  text-align: start;
+  margin: 0 55px 60px 792px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 664px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 621px;
+  }
+
+  .u-section-3 .u-text-4 {
+    margin-right: 0;
+    margin-left: 648px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 509px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 401px;
+  }
+
+  .u-section-3 .u-text-4 {
+    margin-left: 428px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 382px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 221px;
+  }
+
+  .u-section-3 .u-text-4 {
+    margin-left: 248px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 241px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 21px;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-right: 94px;
+  }
+
+  .u-section-3 .u-text-4 {
+    margin-left: 48px;
+  }
+} .u-section-4 {
+  background-image: url("images/ESPACIO.png");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 804px;
+}
+
+.u-section-4 .u-text-1 {
+  font-family: "Archivo Narrow";
+  font-size: 1.25rem;
+  font-weight: 700;
+  font-style: italic;
+  background-image: none;
+  text-align: start;
+  margin: 124px auto 0 37px;
+}
+
+.u-section-4 .u-text-2 {
+  text-align: start;
+  margin: 1px 821px 0 37px;
+}
+
+.u-section-4 .u-text-3 {
+  font-size: 1.25rem;
+  font-family: "Archivo Narrow";
+  font-weight: 700;
+  text-align: start;
+  font-style: italic;
+  margin: 226px 137px 0 auto;
+}
+
+.u-section-4 .u-text-4 {
+  text-align: start;
+  margin: 0 43px 60px 805px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 663px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 621px;
+  }
+
+  .u-section-4 .u-text-4 {
+    margin-right: 0;
+    margin-left: 648px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 508px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 401px;
+  }
+
+  .u-section-4 .u-text-4 {
+    margin-left: 428px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 381px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 221px;
+  }
+
+  .u-section-4 .u-text-4 {
+    margin-left: 248px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 240px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 21px;
+  }
+
+  .u-section-4 .u-text-3 {
+    margin-right: 86px;
+  }
+
+  .u-section-4 .u-text-4 {
+    margin-left: 48px;
+  }
+} .u-section-5 {
+  background-image: url("images/PODER.png");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 742px;
+}
+
+.u-section-5 .u-text-1 {
+  font-size: 1.25rem;
+  font-family: "Archivo Narrow";
+  font-weight: 700;
+  text-align: start;
+  font-style: italic;
+  margin: 497px 139px 0 auto;
+}
+
+.u-section-5 .u-text-2 {
+  font-family: "Archivo Narrow";
+  font-size: 1.25rem;
+  font-weight: 700;
+  font-style: italic;
+  background-image: none;
+  text-align: start;
+  margin: -26px auto 0 45px;
+}
+
+.u-section-5 .u-text-3 {
+  text-align: start;
+  margin: 0 45px 0 803px;
+}
+
+.u-section-5 .u-text-4 {
+  text-align: start;
+  margin: -176px 813px 60px 45px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 612px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-top: 537px;
+  }
+
+  .u-section-5 .u-text-2 {
+    margin-top: 14px;
+  }
+
+  .u-section-5 .u-text-3 {
+    margin-right: 0;
+    margin-left: 648px;
+  }
+
+  .u-section-5 .u-text-4 {
+    margin-top: -136px;
+    margin-right: 658px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 469px;
+  }
+
+  .u-section-5 .u-text-3 {
+    margin-left: 428px;
+  }
+
+  .u-section-5 .u-text-4 {
+    margin-right: 438px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 352px;
+  }
+
+  .u-section-5 .u-text-3 {
+    margin-left: 248px;
+  }
+
+  .u-section-5 .u-text-4 {
+    margin-right: 258px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 222px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-right: 88px;
+  }
+
+  .u-section-5 .u-text-3 {
+    margin-left: 48px;
+  }
+
+  .u-section-5 .u-text-4 {
+    margin-right: 58px;
+  }
+} .u-section-6 {
+  background-image: url("images/TIEMPO.png");
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 786px;
+}
+
+.u-section-6 .u-text-1 {
+  font-family: "Archivo Narrow";
+  font-size: 1.25rem;
+  font-weight: 700;
+  font-style: italic;
+  background-image: none;
+  text-align: start;
+  margin: 113px auto 0 46px;
+}
+
+.u-section-6 .u-text-2 {
+  text-align: start;
+  margin: 2px 812px 0 46px;
+}
+
+.u-section-6 .u-text-3 {
+  font-size: 1.25rem;
+  font-family: "Archivo Narrow";
+  font-weight: 700;
+  text-align: start;
+  font-style: italic;
+  margin: 242px 140px 0 auto;
+}
+
+.u-section-6 .u-text-4 {
+  text-align: start;
+  margin: 0 46px 60px 802px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 648px;
+  }
+
+  .u-section-6 .u-text-2 {
+    margin-right: 612px;
+  }
+
+  .u-section-6 .u-text-4 {
+    margin-right: 0;
+    margin-left: 648px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 496px;
+  }
+
+  .u-section-6 .u-text-2 {
+    margin-right: 392px;
+  }
+
+  .u-section-6 .u-text-4 {
+    margin-left: 428px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 372px;
+  }
+
+  .u-section-6 .u-text-2 {
+    margin-right: 212px;
+  }
+
+  .u-section-6 .u-text-4 {
+    margin-left: 248px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 234px;
+  }
+
+  .u-section-6 .u-text-2 {
+    margin-right: 12px;
+  }
+
+  .u-section-6 .u-text-3 {
+    margin-right: 88px;
+  }
+
+  .u-section-6 .u-text-4 {
+    margin-left: 48px;
+  }
+} .u-section-7 {
+  background-image: url("images/MENTE.png");
+  background-position: 50% 50%;
+}
+
+.u-section-7 .u-sheet-1 {
+  min-height: 727px;
+}
+
+.u-section-7 .u-text-1 {
+  font-family: "Archivo Narrow";
+  font-size: 1.25rem;
+  font-weight: 700;
+  font-style: italic;
+  background-image: none;
+  text-align: start;
+  margin: 462px auto 0 46px;
+}
+
+.u-section-7 .u-text-2 {
+  font-size: 1.25rem;
+  font-family: "Archivo Narrow";
+  font-weight: 700;
+  text-align: start;
+  font-style: italic;
+  margin: -26px 140px 0 auto;
+}
+
+.u-section-7 .u-text-3 {
+  text-align: start;
+  margin: 0 46px 0 802px;
+}
+
+.u-section-7 .u-text-4 {
+  text-align: start;
+  margin: -100px 812px 60px 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 599px;
+  }
+
+  .u-section-7 .u-text-3 {
+    margin-right: 0;
+    margin-left: 648px;
+  }
+
+  .u-section-7 .u-text-4 {
+    margin-right: 612px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 459px;
+  }
+
+  .u-section-7 .u-text-3 {
+    margin-left: 428px;
+  }
+
+  .u-section-7 .u-text-4 {
+    margin-right: 392px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 344px;
+  }
+
+  .u-section-7 .u-text-3 {
+    margin-left: 248px;
+  }
+
+  .u-section-7 .u-text-4 {
+    margin-right: 212px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 217px;
+  }
+
+  .u-section-7 .u-text-2 {
+    margin-right: 88px;
+  }
+
+  .u-section-7 .u-text-3 {
+    margin-left: 48px;
+  }
+
+  .u-section-7 .u-text-4 {
+    margin-right: 12px;
+  }
+}
